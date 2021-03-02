@@ -1,8 +1,8 @@
 <h1 align= "center"><b> I am Anggit Marcellino (Robert)</b></h1>
 
 ### currently listening to
-[<p align="center">  <img src="https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif" width="430px">
-<img src="https://novatorem-mu.vercel.app/api/spotify" alt="Robert Marcellino Spotify Playing" width="350" /></p>](https://open.spotify.com/user/21svrhgs2yod2znlqwdic2abi)
+<p align="center">  <img src="https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif" width="430px">
+
 
 
 
