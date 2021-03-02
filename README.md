@@ -1,8 +1,6 @@
-<h1 align= "center"><b> I am Anggit Marcellino (Robert)</b></h1>
+[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg)](https://www.jason.af)
 
-### currently listening to
-[<p align="center">  <img src="https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif" width="430px">
-<img src="https://novatorem-mu.vercel.app/api/spotify" alt="anggit-marcellino Spotify Playing" width="350" /></p>](https://open.spotify.com/user/21svrhgs2yod2znlqwdic2abi)
+Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
 
 
 
